@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent:arm64v8-version-4.6.5-r0
+homeassistant/home-assistant:2024.12
