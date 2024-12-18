@@ -1,4 +1,11 @@
 # QB种子下载器
 linuxserver/qbittorrent:arm64v8-version-4.6.5-r0
 # homeassistant智能家居控制器
-homeassistant/home-assistant:latest
+homeassistant/home-assistant:2024.12.2
+homeassistant/home-assistant:2024.12.1
+homeassistant/home-assistant:2024.12.0
+homeassistant/home-assistant:2024.11
+homeassistant/home-assistant:2024.11.3
+homeassistant/home-assistant:2024.11.2
+homeassistant/home-assistant:2024.11.1
+homeassistant/home-assistant:2024.11.0
