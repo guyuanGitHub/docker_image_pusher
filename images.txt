@@ -1,4 +1,4 @@
 # QB种子下载器
 linuxserver/qbittorrent:arm64v8-version-4.6.5-r0
 # homeassistant集成智能家居服务器
-homeassistant/home-assistant:2024.12
+homeassistant/home-assistant:latest
