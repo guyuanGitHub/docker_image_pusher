@@ -3,4 +3,4 @@ linuxserver/qbittorrent:arm64v8-version-4.6.5-r0
 # v2raya代理
 mzz2017/v2raya
 # 智能家庭助理
-homeassistant/home-assistant:latest
+homeassistant/home-assistant
